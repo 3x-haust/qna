@@ -1,0 +1,20 @@
+{
+  "columns": {
+    "command_id": {
+      "string:d406de0f-31d8-4d83-8cfc-1a0729a77b9a": [
+        0
+      ],
+      "string:8ac25f66-1dbc-4cdb-a99f-cf73da994d5a": [
+        1
+      ]
+    },
+    "session_id": {
+      "string:8d9b50c9-e99c-412d-b313-5f6a8357af92": [
+        0,
+        1
+      ]
+    }
+  },
+  "rowCount": 2,
+  "version": 1
+}
