@@ -1,0 +1,5 @@
+{
+  "at": "2026-08-21T04:44:33.535Z",
+  "sequence": 19,
+  "sql": "INSERT INTO session_archives (session_id, payload_json) VALUES ('51d9159f-2db7-4913-ba43-911cacaef400', '{\"id\":\"51d9159f-2db7-4913-ba43-911cacaef400\",\"teacherId\":\"teacher\",\"title\":\"Local background archive 1787287469152\",\"phase\":\"ended\",\"seq\":1,\"endedAt\":\"2026-08-21T04:44:29.372Z\",\"processedCommandIds\":[],\"questions\":[]}')"
+}
