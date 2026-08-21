@@ -1,5 +1,0 @@
-{
-  "at": "2026-08-21T04:29:26.278Z",
-  "sequence": 5,
-  "sql": "INSERT INTO session_archives (session_id, payload_json) VALUES ('cfe1f8b9-821a-4375-ad55-e64a42a4ce40', '{\"id\":\"cfe1f8b9-821a-4375-ad55-e64a42a4ce40\",\"teacherId\":\"teacher\",\"title\":\"Public plaintext 502 검증 1787286558515\",\"phase\":\"ended\",\"seq\":2,\"endedAt\":\"2026-08-21T04:29:21.727Z\",\"processedCommandIds\":[\"3b7c875f-7a9a-4db4-a0b4-eef86eb3bd4e\"],\"questions\":[{\"id\":\"question-1\",\"participantId\":\"3e382dcd-6684-4fc0-9b24-0f0af5a6d8a7\",\"authorName\":\"익명\",\"text\":\"502 없이 공개 plaintext로 저장됩니다\",\"createdSeq\":1,\"likedBy\":[]}]}')"
-}

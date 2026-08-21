@@ -1,5 +1,0 @@
-{
-  "at": "2026-08-21T07:21:09.425Z",
-  "sequence": 15,
-  "sql": "INSERT INTO session_questions (author_name, created_sequence, participant_id, question_id, question_text, session_id) VALUES ('익명', 1, 'e87437bb-f3c9-430a-b19b-7fbc029b97c3', 'question-1', 'canonical production question 385e622', '38f5e6ac-9616-4999-9608-c8c01521e6d8')"
-}

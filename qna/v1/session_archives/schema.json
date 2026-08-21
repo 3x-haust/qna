@@ -1,7 +1,0 @@
-{
-  "columns": [
-    "session_id",
-    "payload_json"
-  ],
-  "name": "session_archives"
-}

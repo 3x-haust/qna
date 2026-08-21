@@ -1,5 +1,0 @@
-{
-  "at": "2026-08-21T04:52:29.198Z",
-  "sequence": 25,
-  "sql": "INSERT INTO session_archives (session_id, payload_json) VALUES ('4c09bea2-9ed9-495e-ad2a-3dc688d14334', '{\"id\":\"4c09bea2-9ed9-495e-ad2a-3dc688d14334\",\"teacherId\":\"teacher\",\"title\":\"Production navigation diagnosis 1787287942580\",\"phase\":\"ended\",\"seq\":1,\"endedAt\":\"2026-08-21T04:52:22.824Z\",\"processedCommandIds\":[],\"questions\":[]}')"
-}

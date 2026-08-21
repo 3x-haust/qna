@@ -1,5 +1,0 @@
-{
-  "at": "2026-08-21T04:34:57.798Z",
-  "sequence": 15,
-  "sql": "INSERT INTO session_archives (session_id, payload_json) VALUES ('f0b5015d-5100-4d6a-8609-199fac008393', '{\"id\":\"f0b5015d-5100-4d6a-8609-199fac008393\",\"teacherId\":\"teacher\",\"title\":\"테스트\",\"phase\":\"ended\",\"seq\":3,\"endedAt\":\"2026-08-21T04:34:51.823Z\",\"processedCommandIds\":[\"03978bfc-6a33-4b44-8865-8ac25bb54832\",\"f96d6464-ed61-4ddd-8da6-6566d46e7a29\"],\"questions\":[{\"id\":\"question-1\",\"participantId\":\"cbaf5d22-5a7f-4026-9cfa-5db82ceea4b2\",\"authorName\":\"익명\",\"text\":\"안녕하세요\",\"createdSeq\":1,\"likedBy\":[\"cbaf5d22-5a7f-4026-9cfa-5db82ceea4b2\"]}]}')"
-}

@@ -1,5 +1,0 @@
-{
-  "at": "2026-08-21T07:15:35.068Z",
-  "sequence": 33,
-  "sql": "INSERT INTO session_questions (author_name, created_sequence, participant_id, question_id, question_text, session_id) VALUES ('익명', 1, '62d61e9d-7fde-40aa-9990-4b466449e67e', 'question-1', 'production canonical GitDB row', '01987ea7-d839-42f4-8064-75b046cec56e')"
-}
