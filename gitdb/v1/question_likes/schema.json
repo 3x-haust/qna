@@ -1,0 +1,8 @@
+{
+  "columns": [
+    "like_id",
+    "question_id",
+    "participant_id"
+  ],
+  "name": "question_likes"
+}
