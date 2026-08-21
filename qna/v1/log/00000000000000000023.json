@@ -1,0 +1,5 @@
+{
+  "at": "2026-08-21T04:52:02.979Z",
+  "sequence": 23,
+  "sql": "INSERT INTO session_archives (session_id, payload_json) VALUES ('c61c4aa3-9024-4d96-a35f-66bb6969350d', '{\"id\":\"c61c4aa3-9024-4d96-a35f-66bb6969350d\",\"teacherId\":\"teacher\",\"title\":\"Production background archive 736daa8\",\"phase\":\"ended\",\"seq\":2,\"endedAt\":\"2026-08-21T04:51:48.488Z\",\"processedCommandIds\":[\"83902e32-4bc3-4de4-a20d-260fc6bb1c94\"],\"questions\":[{\"id\":\"question-1\",\"participantId\":\"5c9f921c-80ca-464b-a96c-c0d631fdef71\",\"authorName\":\"익명\",\"text\":\"materialized data verification 736daa8\",\"createdSeq\":1,\"likedBy\":[]}]}')"
+}
