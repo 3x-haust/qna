@@ -1,0 +1,5 @@
+{
+  "at": "2026-08-21T07:07:40.334Z",
+  "sequence": 7,
+  "sql": "INSERT INTO question_likes (like_id, participant_id, question_id) VALUES ('question-1:4af8027c-abf3-490f-9047-579574d398cc', '4af8027c-abf3-490f-9047-579574d398cc', 'question-1')"
+}
