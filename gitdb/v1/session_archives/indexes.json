@@ -1,0 +1,36 @@
+{
+  "columns": {
+    "session_id": {
+      "string:218108c4-d308-47af-a336-caec4a7489fa": [
+        0
+      ]
+    },
+    "teacher_id": {
+      "string:teacher": [
+        0
+      ]
+    },
+    "title": {
+      "string:Canonical GitDB engine QA 1787296057091": [
+        0
+      ]
+    },
+    "phase": {
+      "string:ended": [
+        0
+      ]
+    },
+    "sequence_number": {
+      "number:3": [
+        0
+      ]
+    },
+    "ended_at": {
+      "string:2026-08-21T07:07:37.621Z": [
+        0
+      ]
+    }
+  },
+  "rowCount": 1,
+  "version": 1
+}
