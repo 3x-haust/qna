@@ -3,34 +3,46 @@
     "session_id": {
       "string:8d9b50c9-e99c-412d-b313-5f6a8357af92": [
         0
+      ],
+      "string:38f5e6ac-9616-4999-9608-c8c01521e6d8": [
+        1
       ]
     },
     "teacher_id": {
       "string:teacher": [
-        0
+        0,
+        1
       ]
     },
     "title": {
       "string:Canonical GitDB final QA": [
         0
+      ],
+      "string:Canonical GitDB production final 385e622": [
+        1
       ]
     },
     "phase": {
       "string:ended": [
-        0
+        0,
+        1
       ]
     },
     "sequence_number": {
       "number:3": [
-        0
+        0,
+        1
       ]
     },
     "ended_at": {
       "string:2026-08-21T07:09:20.316Z": [
         0
+      ],
+      "string:2026-08-21T07:20:58.937Z": [
+        1
       ]
     }
   },
-  "rowCount": 1,
+  "rowCount": 2,
   "version": 1
 }
