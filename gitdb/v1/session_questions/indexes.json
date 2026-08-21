@@ -1,0 +1,36 @@
+{
+  "columns": {
+    "question_id": {
+      "string:question-1": [
+        0
+      ]
+    },
+    "session_id": {
+      "string:218108c4-d308-47af-a336-caec4a7489fa": [
+        0
+      ]
+    },
+    "participant_id": {
+      "string:4af8027c-abf3-490f-9047-579574d398cc": [
+        0
+      ]
+    },
+    "author_name": {
+      "string:익명": [
+        0
+      ]
+    },
+    "STRING": {
+      "string:GitDB canonical table row": [
+        0
+      ]
+    },
+    "created_sequence": {
+      "number:1": [
+        0
+      ]
+    }
+  },
+  "rowCount": 1,
+  "version": 1
+}
