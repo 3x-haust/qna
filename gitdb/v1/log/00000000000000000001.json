@@ -1,0 +1,5 @@
+{
+  "at": "2026-08-21T07:28:34.417Z",
+  "sequence": 1,
+  "sql": "CREATE TABLE IF NOT EXISTS session_archives (session_id STRING, teacher_id STRING, title STRING, phase STRING, sequence_number INT, ended_at STRING)"
+}
