@@ -1,0 +1,5 @@
+{
+  "at": "2026-08-21T07:07:40.334Z",
+  "sequence": 4,
+  "sql": "CREATE TABLE IF NOT EXISTS session_processed_commands (command_id STRING, session_id STRING)"
+}
