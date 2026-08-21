@@ -1,0 +1,36 @@
+{
+  "columns": {
+    "question_id": {
+      "string:question-1": [
+        0
+      ]
+    },
+    "session_id": {
+      "string:366289f4-a53e-4d48-8b5d-2e60017cf0ba": [
+        0
+      ]
+    },
+    "participant_id": {
+      "string:2654be9e-b685-4637-9d1d-462947309286": [
+        0
+      ]
+    },
+    "author_name": {
+      "string:익명": [
+        0
+      ]
+    },
+    "question_text": {
+      "string:canonical final question 73dd6e2": [
+        0
+      ]
+    },
+    "created_sequence": {
+      "number:1": [
+        0
+      ]
+    }
+  },
+  "rowCount": 1,
+  "version": 1
+}
