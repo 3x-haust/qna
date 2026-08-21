@@ -1,5 +1,5 @@
 {
-  "at": "2026-08-21T04:32:12.526Z",
+  "at": "2026-08-21T04:32:15.023Z",
   "sequence": 9,
-  "sql": "INSERT INTO session_archives (session_id, payload_json) VALUES ('eda7a438-8e1e-4548-b2e8-5bd3ece001b2', '{\"id\":\"eda7a438-8e1e-4548-b2e8-5bd3ece001b2\",\"teacherId\":\"teacher\",\"title\":\"테스트\",\"phase\":\"ended\",\"seq\":3,\"endedAt\":\"2026-08-21T04:32:06.891Z\",\"processedCommandIds\":[\"370e2462-15c2-48ef-81b8-3feb7857bce2\",\"a944f7b3-2970-4917-98b8-144bb1ccee65\"],\"questions\":[{\"id\":\"question-1\",\"participantId\":\"80d15a3d-5ee0-4d93-b2b8-60d177a121a9\",\"authorName\":\"익명\",\"text\":\"안녕하세요\",\"createdSeq\":1,\"likedBy\":[\"80d15a3d-5ee0-4d93-b2b8-60d177a121a9\"]}]}')"
+  "sql": "CREATE TABLE IF NOT EXISTS session_archives (session_id STRING, payload_json STRING)"
 }
