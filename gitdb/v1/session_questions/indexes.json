@@ -2,35 +2,47 @@
   "columns": {
     "question_id": {
       "string:question-1": [
-        0
+        0,
+        1
       ]
     },
     "session_id": {
       "string:8d9b50c9-e99c-412d-b313-5f6a8357af92": [
         0
+      ],
+      "string:38f5e6ac-9616-4999-9608-c8c01521e6d8": [
+        1
       ]
     },
     "participant_id": {
       "string:d23ade0d-6417-46ec-9cce-6e0bfdbca636": [
         0
+      ],
+      "string:e87437bb-f3c9-430a-b19b-7fbc029b97c3": [
+        1
       ]
     },
     "author_name": {
       "string:익명": [
-        0
+        0,
+        1
       ]
     },
     "question_text": {
       "string:GitDB canonical question row": [
         0
+      ],
+      "string:canonical production question 385e622": [
+        1
       ]
     },
     "created_sequence": {
       "number:1": [
-        0
+        0,
+        1
       ]
     }
   },
-  "rowCount": 1,
+  "rowCount": 2,
   "version": 1
 }
