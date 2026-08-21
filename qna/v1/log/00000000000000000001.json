@@ -1,5 +1,5 @@
 {
-  "at": "2026-08-21T04:27:46.298Z",
+  "at": "2026-08-21T04:27:50.823Z",
   "sequence": 1,
   "sql": "CREATE TABLE IF NOT EXISTS session_archives (session_id STRING, payload_json STRING)"
 }
