@@ -1,0 +1,21 @@
+{
+  "columns": {
+    "like_id": {
+      "string:question-1:4af8027c-abf3-490f-9047-579574d398cc": [
+        0
+      ]
+    },
+    "question_id": {
+      "string:question-1": [
+        0
+      ]
+    },
+    "participant_id": {
+      "string:4af8027c-abf3-490f-9047-579574d398cc": [
+        0
+      ]
+    }
+  },
+  "rowCount": 1,
+  "version": 1
+}
