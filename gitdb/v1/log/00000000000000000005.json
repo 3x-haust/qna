@@ -1,0 +1,5 @@
+{
+  "at": "2026-08-21T07:07:40.334Z",
+  "sequence": 5,
+  "sql": "INSERT INTO session_archives (ended_at, phase, sequence_number, session_id, teacher_id, title) VALUES ('2026-08-21T07:07:37.621Z', 'ended', 3, '218108c4-d308-47af-a336-caec4a7489fa', 'teacher', 'Canonical GitDB engine QA 1787296057091')"
+}
