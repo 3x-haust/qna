@@ -1,0 +1,5 @@
+{
+  "at": "2026-08-21T04:34:27.563Z",
+  "sequence": 13,
+  "sql": "INSERT INTO session_archives (session_id, payload_json) VALUES ('c7ec5378-ba93-47be-b92f-8d02cbda6593', '{\"id\":\"c7ec5378-ba93-47be-b92f-8d02cbda6593\",\"teacherId\":\"teacher\",\"title\":\"Public plaintext archive 1787286843102\",\"phase\":\"ended\",\"seq\":2,\"endedAt\":\"2026-08-21T04:34:20.321Z\",\"processedCommandIds\":[\"584d7f7b-2227-4330-9e21-a5439402bf75\"],\"questions\":[{\"id\":\"question-1\",\"participantId\":\"354d5e72-b6a0-4d7e-be3e-77243e776dcf\",\"authorName\":\"익명\",\"text\":\"502 없이 공개 plaintext로 저장됩니다\",\"createdSeq\":1,\"likedBy\":[]}]}')"
+}
