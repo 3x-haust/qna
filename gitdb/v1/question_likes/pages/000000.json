@@ -1,7 +1,12 @@
 [
   {
     "like_id": "question-1:d23ade0d-6417-46ec-9cce-6e0bfdbca636",
-    "participant_id": "d23ade0d-6417-46ec-9cce-6e0bfdbca636",
+    "question_id": "question-1",
+    "participant_id": "d23ade0d-6417-46ec-9cce-6e0bfdbca636"
+  },
+  {
+    "like_id": "question-1:e87437bb-f3c9-430a-b19b-7fbc029b97c3",
+    "participant_id": "e87437bb-f3c9-430a-b19b-7fbc029b97c3",
     "question_id": "question-1"
   }
 ]
