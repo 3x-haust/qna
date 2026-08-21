@@ -1,0 +1,5 @@
+{
+  "at": "2026-08-21T04:35:08.285Z",
+  "sequence": 17,
+  "sql": "INSERT INTO session_archives (session_id, payload_json) VALUES ('48aa7317-8c17-454a-b8f8-691c6f836e0d', '{\"id\":\"48aa7317-8c17-454a-b8f8-691c6f836e0d\",\"teacherId\":\"teacher\",\"title\":\"502-free API verification\",\"phase\":\"ended\",\"seq\":1,\"endedAt\":\"2026-08-21T04:35:03.420Z\",\"processedCommandIds\":[],\"questions\":[]}')"
+}
