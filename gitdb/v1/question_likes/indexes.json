@@ -3,19 +3,26 @@
     "like_id": {
       "string:question-1:d23ade0d-6417-46ec-9cce-6e0bfdbca636": [
         0
+      ],
+      "string:question-1:e87437bb-f3c9-430a-b19b-7fbc029b97c3": [
+        1
       ]
     },
     "question_id": {
       "string:question-1": [
-        0
+        0,
+        1
       ]
     },
     "participant_id": {
       "string:d23ade0d-6417-46ec-9cce-6e0bfdbca636": [
         0
+      ],
+      "string:e87437bb-f3c9-430a-b19b-7fbc029b97c3": [
+        1
       ]
     }
   },
-  "rowCount": 1,
+  "rowCount": 2,
   "version": 1
 }
