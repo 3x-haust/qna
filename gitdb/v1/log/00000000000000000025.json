@@ -1,0 +1,5 @@
+{
+  "at": "2026-08-28T00:30:03.977Z",
+  "sequence": 25,
+  "sql": "INSERT INTO session_processed_commands (command_id, session_id) VALUES ('3d68c169-d459-491e-b93a-99226539105d', 'dfdcb871-45c6-40d4-b08a-b8b70d29a4fb')"
+}
