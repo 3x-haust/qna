@@ -1,0 +1,36 @@
+{
+  "columns": {
+    "session_id": {
+      "string:dfdcb871-45c6-40d4-b08a-b8b70d29a4fb": [
+        0
+      ]
+    },
+    "teacher_id": {
+      "string:teacher": [
+        0
+      ]
+    },
+    "title": {
+      "string:프로그래밍": [
+        0
+      ]
+    },
+    "phase": {
+      "string:ended": [
+        0
+      ]
+    },
+    "sequence_number": {
+      "number:31": [
+        0
+      ]
+    },
+    "ended_at": {
+      "string:2026-08-28T00:29:49.162Z": [
+        0
+      ]
+    }
+  },
+  "rowCount": 1,
+  "version": 1
+}
