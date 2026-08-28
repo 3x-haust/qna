@@ -1,0 +1,5 @@
+{
+  "at": "2026-08-28T00:30:03.976Z",
+  "sequence": 3,
+  "sql": "CREATE TABLE IF NOT EXISTS question_likes (like_id STRING, session_id STRING, question_id STRING, participant_id STRING)"
+}
