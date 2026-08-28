@@ -1,0 +1,5 @@
+{
+  "at": "2026-08-28T00:30:03.976Z",
+  "sequence": 13,
+  "sql": "INSERT INTO session_questions (author_name, created_sequence, participant_id, question_id, question_text, session_id) VALUES ('익명', 23, '8daa21b8-678d-4a75-af3f-050ac44a5ccc', 'question-23', '재호 태민 뽀뽀하기', 'dfdcb871-45c6-40d4-b08a-b8b70d29a4fb')"
+}
