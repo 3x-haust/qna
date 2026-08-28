@@ -1,0 +1,7 @@
+{
+  "columns": [
+    "command_id",
+    "session_id"
+  ],
+  "name": "session_processed_commands"
+}
