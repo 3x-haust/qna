@@ -1,0 +1,5 @@
+{
+  "at": "2026-08-28T00:30:03.976Z",
+  "sequence": 15,
+  "sql": "INSERT INTO session_questions (author_name, created_sequence, participant_id, question_id, question_text, session_id) VALUES ('s2439@e-mirim.hs.kr', 27, '81efb52f-8a77-48e5-89be-0f6ea5a21782', 'question-27', 'gkgkgk', 'dfdcb871-45c6-40d4-b08a-b8b70d29a4fb')"
+}
