@@ -1,0 +1,102 @@
+{
+  "columns": {
+    "question_id": {
+      "string:question-1": [
+        0
+      ],
+      "string:question-2": [
+        1
+      ],
+      "string:question-3": [
+        2
+      ],
+      "string:question-4": [
+        3
+      ],
+      "string:question-23": [
+        4
+      ],
+      "string:question-27": [
+        5
+      ]
+    },
+    "session_id": {
+      "string:dfdcb871-45c6-40d4-b08a-b8b70d29a4fb": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    "participant_id": {
+      "string:314b7fdb-00b2-43fb-bc54-c630cafe1fa9": [
+        0,
+        2,
+        3
+      ],
+      "string:8daa21b8-678d-4a75-af3f-050ac44a5ccc": [
+        1,
+        4
+      ],
+      "string:81efb52f-8a77-48e5-89be-0f6ea5a21782": [
+        5
+      ]
+    },
+    "author_name": {
+      "string:익명": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "string:s2439@e-mirim.hs.kr": [
+        5
+      ]
+    },
+    "question_text": {
+      "string:반가워요": [
+        0
+      ],
+      "string:재호 인성은 왜 그런가요": [
+        1
+      ],
+      "string:오 쩐당": [
+        2
+      ],
+      "string:동태민 눈알 뽑기": [
+        3
+      ],
+      "string:재호 태민 뽀뽀하기": [
+        4
+      ],
+      "string:gkgkgk": [
+        5
+      ]
+    },
+    "created_sequence": {
+      "number:1": [
+        0
+      ],
+      "number:2": [
+        1
+      ],
+      "number:3": [
+        2
+      ],
+      "number:4": [
+        3
+      ],
+      "number:23": [
+        4
+      ],
+      "number:27": [
+        5
+      ]
+    }
+  },
+  "rowCount": 6,
+  "version": 1
+}
