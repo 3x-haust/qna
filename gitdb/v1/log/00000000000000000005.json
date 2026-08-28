@@ -1,0 +1,5 @@
+{
+  "at": "2026-08-28T00:30:03.976Z",
+  "sequence": 5,
+  "sql": "INSERT INTO session_archives (ended_at, phase, sequence_number, session_id, teacher_id, title) VALUES ('2026-08-28T00:29:49.162Z', 'ended', 31, 'dfdcb871-45c6-40d4-b08a-b8b70d29a4fb', 'teacher', '프로그래밍')"
+}
