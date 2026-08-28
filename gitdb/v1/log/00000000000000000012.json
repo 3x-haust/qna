@@ -1,0 +1,5 @@
+{
+  "at": "2026-08-28T00:30:03.976Z",
+  "sequence": 12,
+  "sql": "INSERT INTO question_likes (like_id, participant_id, question_id, session_id) VALUES ('dfdcb871-45c6-40d4-b08a-b8b70d29a4fb:question-4:81efb52f-8a77-48e5-89be-0f6ea5a21782', '81efb52f-8a77-48e5-89be-0f6ea5a21782', 'question-4', 'dfdcb871-45c6-40d4-b08a-b8b70d29a4fb')"
+}
