@@ -1,0 +1,26 @@
+[
+  {
+    "like_id": "dfdcb871-45c6-40d4-b08a-b8b70d29a4fb:question-1:314b7fdb-00b2-43fb-bc54-c630cafe1fa9",
+    "participant_id": "314b7fdb-00b2-43fb-bc54-c630cafe1fa9",
+    "question_id": "question-1",
+    "session_id": "dfdcb871-45c6-40d4-b08a-b8b70d29a4fb"
+  },
+  {
+    "like_id": "dfdcb871-45c6-40d4-b08a-b8b70d29a4fb:question-4:314b7fdb-00b2-43fb-bc54-c630cafe1fa9",
+    "participant_id": "314b7fdb-00b2-43fb-bc54-c630cafe1fa9",
+    "question_id": "question-4",
+    "session_id": "dfdcb871-45c6-40d4-b08a-b8b70d29a4fb"
+  },
+  {
+    "like_id": "dfdcb871-45c6-40d4-b08a-b8b70d29a4fb:question-4:81efb52f-8a77-48e5-89be-0f6ea5a21782",
+    "participant_id": "81efb52f-8a77-48e5-89be-0f6ea5a21782",
+    "question_id": "question-4",
+    "session_id": "dfdcb871-45c6-40d4-b08a-b8b70d29a4fb"
+  },
+  {
+    "like_id": "dfdcb871-45c6-40d4-b08a-b8b70d29a4fb:question-23:8daa21b8-678d-4a75-af3f-050ac44a5ccc",
+    "participant_id": "8daa21b8-678d-4a75-af3f-050ac44a5ccc",
+    "question_id": "question-23",
+    "session_id": "dfdcb871-45c6-40d4-b08a-b8b70d29a4fb"
+  }
+]
